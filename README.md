@@ -7,7 +7,11 @@ For example:
 The user input is 5, the program will then output the following:
 
   1 Odd
+  
   2 Even
+  
   3 Odd
+  
   4 Even
+  
   5 Odd
